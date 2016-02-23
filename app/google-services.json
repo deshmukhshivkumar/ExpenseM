@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_id": "expensem-584f8",
+    "project_number": "911159888696",
+    "name": "ExpenseM"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911159888696:android:b6f2b6e9c8cd4a6d",
+        "client_id": "android:shiv.app.expensem",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "shiv.app.expensem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911159888696-lf0m38ujba2oelbj8l1rgj6hsrgghdkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shiv.app.expensem",
+            "certificate_hash": "FC8264CE9AF36AD768E21032FE2B4A73816DF54C"
+          }
+        },
+        {
+          "client_id": "911159888696-13fhvfg2gg3n7468mdkdukjj8lamhs6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911159888696:android:571a4c74e961da65",
+        "client_id": "android:app.shiv.expensem",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "app.shiv.expensem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911159888696-iu9eor84ig62vtus43v4m5dccp5rcjq2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.shiv.expensem",
+            "certificate_hash": "FC8264CE9AF36AD768E21032FE2B4A73816DF54C"
+          }
+        },
+        {
+          "client_id": "911159888696-13fhvfg2gg3n7468mdkdukjj8lamhs6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
