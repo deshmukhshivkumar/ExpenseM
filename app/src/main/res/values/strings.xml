@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">ExpenseM</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="signed_in_fmt">Signed in as: %s</string>
     <string name="action_settings">Settings</string>
+    <string name="title_text">Google Sign-In\nQuickstart</string>
+
 </resources>
